@@ -1,0 +1,5 @@
+streamlit
+streamlit-audiorecorder
+audioop-lts
+openai
+gTTS
